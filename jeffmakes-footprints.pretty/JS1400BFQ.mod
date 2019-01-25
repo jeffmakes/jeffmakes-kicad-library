@@ -1,0 +1,110 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+SW_JS1400BFQ
+$EndINDEX
+$MODULE SW_JS1400BFQ
+Po 0 0 0 15 00000000 00000000 ~~
+Li SW_JS1400BFQ
+Cd 
+Sc 00000000
+At SMD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -2.66012 -6.4353 1.00005 1.00005 0 0.05 N V 21 "SW_JS1400BFQ"
+T1 -2.028 6.07395 1.00147 1.00147 0 0.05 N V 21 "VAL**"
+DS -3.85 3.7 -3.85 -3.7 0.127 24
+DS -3.85 -3.7 3.85 -3.7 0.127 24
+DS 3.85 -3.7 3.85 3.7 0.127 24
+DS 3.85 3.7 -3.85 3.7 0.127 24
+DS -3.85 -2.09 -3.85 -3.7 0.127 21
+DS -3.85 -3.7 -1.19 -3.7 0.127 21
+DS 1.2 -3.7 3.85 -3.7 0.127 21
+DS 3.85 -3.7 3.85 -2.08 0.127 21
+DS 3.85 2.1 3.85 3.7 0.127 21
+DS 3.85 3.7 1.19 3.7 0.127 21
+DS -1.19 3.7 -3.85 3.7 0.127 21
+DS -3.85 3.7 -3.85 2.11 0.127 21
+DS -5.25 -5.2 5.25 -5.2 0.05 26
+DS 5.25 -5.2 5.25 5.2 0.05 26
+DS 5.25 5.2 -5.25 5.2 0.05 26
+DS -5.25 5.2 -5.25 -5.2 0.05 26
+$PAD
+Sh "2" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4 0
+$EndPAD
+$PAD
+Sh "1" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4 -1.425
+$EndPAD
+$PAD
+Sh "3" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po -4 1.425
+$EndPAD
+$PAD
+Sh "6" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4 1.425
+$EndPAD
+$PAD
+Sh "5" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4 0
+$EndPAD
+$PAD
+Sh "4" R 2 1 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 4 -1.425
+$EndPAD
+$PAD
+Sh "SH1" R 2 1.8 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 -4.05
+$EndPAD
+$PAD
+Sh "SH2" R 2 1.8 0 0 0
+At SMD N 00888000
+.SolderMask 0
+.SolderPaste 0
+Ne 0 ""
+Po 0 4.05
+$EndPAD
+$PAD
+Sh "Hole" C 0.8 0.8 0 0 0
+Dr 0.8 0 0
+At HOLE N 00E0FFFF
+Po 0 -1.9
+$EndPAD
+$PAD
+Sh "Hole" C 1.1 1.1 0 0 0
+Dr 1.1 0 0
+At HOLE N 00E0FFFF
+Po 0 1.9
+$EndPAD
+$EndMODULE SW_JS1400BFQ
