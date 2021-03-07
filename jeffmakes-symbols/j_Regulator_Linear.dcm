@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AP2115M
-D 1A Low Dropout regulator, positive, fixed output, SO-8
-K linear regulator ldo fixed positive
-F https://www.diodes.com/assets/Datasheets/AP2115.pdf
-$ENDCMP
-#
-#End Doc Library
