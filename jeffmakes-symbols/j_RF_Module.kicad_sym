@@ -212,7 +212,7 @@
     (property "Value" "Sierra_Wireless_RC7620" (id 1) (at -24.765 -69.85 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Footprint" "MODULE_WP7504" (id 2) (at 0 0 0)
+    (property "Footprint" "" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -220,9 +220,6 @@
     )
     (property "MANUFACTURER" "Sierra Wireliess" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
-    )
-    (property "ki_locked" "" (id 5) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
     )
     (symbol "Sierra_Wireless_RC7620_0_0"
       (rectangle (start -25.4 85.725) (end 25.4 -67.31)
