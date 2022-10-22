@@ -126,7 +126,7 @@
     (property "Value" "TPS22810DBV" (at 7.62 -6.35 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm" (at 0 -17.78 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/ds/symlink/tps22810.pdf" (at 0 0 0)
