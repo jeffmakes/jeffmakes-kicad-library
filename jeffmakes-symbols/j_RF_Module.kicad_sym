@@ -1,6 +1,6 @@
 (kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
   (symbol "ESP32-WROVER-I" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "A" (at -12.7254 30.5562 0)
+    (property "Reference" "A" (at -12.7 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Value" "ESP32-WROVER-I" (at -12.7254 -33.1216 0)
@@ -31,38 +31,6 @@
       (effects (font (size 1.27 1.27)))
     )
     (symbol "ESP32-WROVER-I_0_0"
-      (polyline
-        (pts
-          (xy -12.7 -30.48)
-          (xy -12.7 30.48)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy -12.7 30.48)
-          (xy 12.7 30.48)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 12.7 -30.48)
-          (xy -12.7 -30.48)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 12.7 30.48)
-          (xy 12.7 -30.48)
-        )
-        (stroke (width 0.254) (type default))
-        (fill (type none))
-      )
       (pin power_in line (at 15.24 -25.4 180) (length 2.54)
         (name "GND" (effects (font (size 1.016 1.016))))
         (number "1" (effects (font (size 1.016 1.016))))
@@ -206,6 +174,16 @@
       (pin bidirectional line (at 15.24 -12.7 180) (length 2.54)
         (name "IO33" (effects (font (size 1.016 1.016))))
         (number "9" (effects (font (size 1.016 1.016))))
+      )
+    )
+    (symbol "ESP32-WROVER-I_1_1"
+      (rectangle (start -12.7 30.48) (end -12.7 30.48)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (rectangle (start -12.7 30.48) (end 12.7 -30.48)
+        (stroke (width 0) (type default))
+        (fill (type background))
       )
     )
   )
