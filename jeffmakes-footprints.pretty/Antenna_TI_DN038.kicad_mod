@@ -1,6 +1,5 @@
 (footprint "Antenna_TI_DN038" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
   (fp_text reference "REF**" (at 0 0.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4e87ea2c-6c45-47e0-a9ad-b64b822953ff)
