@@ -1,6 +1,6 @@
 (footprint "USB-A-short-body" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "REF**" (at 0 0.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4cc34a59-3473-463c-9002-f1d0e8e6cca6)
