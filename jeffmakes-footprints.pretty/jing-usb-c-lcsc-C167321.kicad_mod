@@ -1,6 +1,6 @@
 (footprint "jing-usb-c-lcsc-C167321" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "J2" (at 0 0.5) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a6e8fb7b-f940-4aa3-bc27-e98050eda0c0)
