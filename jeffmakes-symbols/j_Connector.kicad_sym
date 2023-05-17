@@ -530,18 +530,6 @@
         (name "SH" (effects (font (size 1.27 1.27))))
         (number "SH" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at -1.27 -39.37 90) (length 2.54) hide
-        (name "SH" (effects (font (size 1.27 1.27))))
-        (number "SH" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -1.27 -39.37 90) (length 2.54) hide
-        (name "SH" (effects (font (size 1.27 1.27))))
-        (number "SH" (effects (font (size 1.27 1.27))))
-      )
-      (pin passive line (at -1.27 -39.37 90) (length 2.54) hide
-        (name "SH" (effects (font (size 1.27 1.27))))
-        (number "SH" (effects (font (size 1.27 1.27))))
-      )
     )
   )
 )
